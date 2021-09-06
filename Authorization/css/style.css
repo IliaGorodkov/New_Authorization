@@ -1,0 +1,36 @@
+
+
+body{
+    font-family: sans-serif;
+}
+
+.Flex{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Button{
+  margin-left: 27%; margin-right: 27%;
+  font-size: 17px;
+}
+
+.indent{
+margin-top: 70px;
+}
+
+.border{
+  
+  background: #bbe296; /* Цвет фона */
+  border: 1px solid black; /* Параметры рамки */
+  padding: 15px; /* Поля вокруг текста */
+  margin-bottom: 10px; /* Отступ снизу */
+  border-radius: 40px 10px;
+ 
+}
+
+
+
+
+
+
